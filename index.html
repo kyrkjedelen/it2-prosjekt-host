@@ -13,14 +13,11 @@
     <h1>Finn ditt fødselsnummer:</h1>
     <form id="form-fodselsnummer">
         <input name="fodselsdato" id="inp-fodselsdato" type="date" required>
-        <select name="kjonn" id="inp-kjonn" required>
-            <option value="mann">Mann</option>
-            <option value="kvinne">Kvinne</option>
-        </select>
+        <input name="individsiffre" id="inp-individsiffre" type="text" required minlength="3" maxlength="3">
         <button type="submit">Finn nummer</button>
     </form>
-    <h2>Mulige fødselsnummere:</h2>
-    <div id="out-fodselsnummere">
+    <h2>Fødselsnummer:</h2>
+    <div id="out-fodselsnummer">
 
     </div>
 </body>

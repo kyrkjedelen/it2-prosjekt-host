@@ -1,1 +1,4 @@
-Skriv tilbakemeldinger her:
+Emilie: 
+Det ser ut som at programmet virker som det skal. 
+Kanskje kan du videre lage en valideringstjeneste, ved å svare på de oppgavene.
+Også til slutt legge til noe CSS for å få prosjektet til å se finere ut.
